@@ -12,7 +12,7 @@ Please include the following:
 
 3) your selected hedges along with the number of shares of each
 
-The python (best_hedge.py) code requires the pandas, riskfolio, and matplotlib modules.
+The best_hedge.py file is the code I used to solve this problem. It requires the pandas, riskfolio, and matplotlib modules. 
 
 The source_data.xlsx file is the same that you provided me with in the email.
 
