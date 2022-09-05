@@ -12,4 +12,4 @@ Please include the following:
 
 3) your selected hedges along with the number of shares of each
 
-Requires the pandas, riskfolio, and matplotlib modules.
+The python code Requires the pandas, riskfolio, and matplotlib modules.
