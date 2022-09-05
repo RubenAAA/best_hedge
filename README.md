@@ -12,4 +12,6 @@ Please include the following:
 
 3) your selected hedges along with the number of shares of each
 
-The python code requires the pandas, riskfolio, and matplotlib modules.
+The python (best_hedge.py) code requires the pandas, riskfolio, and matplotlib modules.
+The source code file is the same that you provided me with in the email.
+The Word answers file is the file containing my answers.
